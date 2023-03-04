@@ -1,0 +1,13 @@
+{
+  "annotations": [ ],
+  "captures": [
+    {
+      "core:sample_start": 0
+    }
+  ],
+  "global": {
+    "core:datatype": "cf32_le",
+    "core:description": "DroneID Bursts from a Mavic Air 2",
+    "core:sample_rate": 50000000
+  }
+}
